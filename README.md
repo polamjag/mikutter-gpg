@@ -10,5 +10,5 @@ pretty teokure privacy
 * Twitter client which has private key can decrypt the message/reply
 
 ## TODOs
-* make usage of OpenStego easy (or develop/find steganography tool in Ruby)
+* make staganography easy (develop/find steganography tool in Ruby)
 * create UI in mikutter (making new tab to treat messages)
